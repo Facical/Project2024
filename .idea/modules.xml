@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DB.iml" filepath="$PROJECT_DIR$/DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DB.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DB.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DB.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DB.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Network.iml" filepath="$PROJECT_DIR$/Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Network.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Network.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Network.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Network.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project2024.iml" filepath="$PROJECT_DIR$/.idea/Project2024.iml" />
+    </modules>
+  </component>
+</project>
